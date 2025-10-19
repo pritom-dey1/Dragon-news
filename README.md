@@ -13,7 +13,6 @@ React Router.
 -   📄 Dynamic Routing with React Router
 -   🧩 Component-based architecture (clean folder structure)
 -   ⚙️ Reusable Context API for managing auth state
--   🖥️ Responsive Layout Design
 
 ------------------------------------------------------------------------
 
